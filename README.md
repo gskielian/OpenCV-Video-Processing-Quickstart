@@ -7,9 +7,9 @@ http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_gui/py_v
 
 ## Description of files:
 
-a) webcam-greyscale
-b) play-a-video
-c) webcam-capture-invert-save
+1. webcam-greyscale.py
+2. play-a-video.py
+3. webcam-capture-invert-save.py
 
 
 For the last program, we modified the code slightly (change below) for it to work on my Ubuntu linux box:
